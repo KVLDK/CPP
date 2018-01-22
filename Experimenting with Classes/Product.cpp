@@ -25,7 +25,7 @@ Product::Product(const char* name, uint32_t code, float cost): name_(NULL), code
     delete[] name_;
 
   size_t size = strlen(name);  // variable to hold size of name variable passed in
-  name_ = new char[1+size];  //ensure enough room copy array and add null character to last index
+  name_ = new char[1+size];  //ensure enough room to copy array and add null character to last index
   name_[size]='\0';  //null character at last index
   strcpy(name_, name);
 }
