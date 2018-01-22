@@ -11,11 +11,11 @@
 class Product
 {
 public:
-    Product();
-    Product (const char*, unsigned, float);
-    ~Product();
-    Product(const Product&);
-    Product &operator=(const Product&);
+    Product();  //default constructor
+    Product (const char*, unsigned, float);  //3-argument constructor
+    ~Product();  //destructor
+    Product(const Product&); //copy constructor
+    Product &operator=(const Product&); //assignment operator
 
     //set values of private data
     void SetName (const char*);
