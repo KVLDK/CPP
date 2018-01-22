@@ -1,6 +1,7 @@
 /*
   Kara V
   Driver to test fucntionality of Product.cpp and Header.h
+  1/15/2018
 */
 
 #include <iostream>
