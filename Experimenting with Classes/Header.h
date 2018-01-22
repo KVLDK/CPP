@@ -17,10 +17,12 @@ public:
     Product(const Product&);
     Product &operator=(const Product&);
 
+    //set values of private data
     void SetName (const char*);
     void SetBarCode (uint32_t);
     void SetCost (float);
 
+    //get values of private data
     const char* GetName() const;
     unsigned GetBarCode() const;
     float GetCost() const;
@@ -31,6 +33,7 @@ private:
     float cost_;
 };
 
+//output stream operator to print Product object values to screen
 std::ostream& operator << (std::ostream&, const Product& p);
 
 
