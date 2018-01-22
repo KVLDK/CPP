@@ -101,7 +101,7 @@ float Product::GetCost() const
 
 
 
-//overloaded output stream operator provided by Professor Chris Lacher (FSU)
+//overloaded output stream operator provided by Professor Chris Lacher (FSU, Fall 2016)
 std::ostream& operator << (std::ostream& os, const Product& p)
 {
 std::ios_base::fmtflags flags=os.flags();
