@@ -1,6 +1,7 @@
 /*
 Kara V
 Product Class function definitions
+1/15/2018
 */
 
 #include <iostream>
