@@ -1,4 +1,7 @@
-//Product Header File
+/*
+Kara V
+Product Header File
+*/
 
 #ifndef HEADER_H
 #define HEADER_H
