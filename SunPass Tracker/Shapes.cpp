@@ -1,6 +1,6 @@
 /*
 shapes.cpp
-Kara Vahldieck
+Kara V
 10/15/16
 Implementation file for Shapes class
 version 1.0
