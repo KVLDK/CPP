@@ -1,6 +1,6 @@
 /*
 tracker.cpp
-Kara Vahldieck
+Kara V
 10/19/16
 Implementation file for tracker program
 version 1.0
