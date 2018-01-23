@@ -1,6 +1,6 @@
 /*
 shapes.h
-Kara Vahldieck
+Kara V
 10/15/16
 Header file for Shapes class
 version 1.0
