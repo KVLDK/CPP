@@ -1,6 +1,6 @@
 /*
 vehicles.h
-Kara Vahldieck
+Kara V
 10/15/16
 Header file for Vehicles class
 version 1.0
