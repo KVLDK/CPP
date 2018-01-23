@@ -1,1 +1,3 @@
 
+Project utilizes static and dynamic polymorphism and other various object-oriented programming principles to simulate and applicated that tracks vehicle data for the Florida Turnpike Authority. 
+Each vehicle object contains a host of data unique to vehicle type. Program reports data for vehicle type user chooses to the screen.
