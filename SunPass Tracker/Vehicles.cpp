@@ -1,6 +1,6 @@
 /*
 vehicles.cpp
-Kara Vahldieck
+Kara V
 10/15/16
 Implementation file for Vehicles class
 version 1.0
