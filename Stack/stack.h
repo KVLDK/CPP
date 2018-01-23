@@ -1,7 +1,7 @@
 /*
 stack.t
-Kara Vahldieck
-11/17/18
+Kara V
+11/17/16
 version 1.0
 
 Contains definitions and implementations for stack ADT
