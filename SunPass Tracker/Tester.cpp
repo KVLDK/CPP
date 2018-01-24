@@ -1,7 +1,7 @@
 /*
    tester.cpp
 
-   Chris Lacher
+   (created by) Professor Chris Lacher (FSU)
    10-10-14
 
    Test harness for the vehicle object hierarchy
