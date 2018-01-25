@@ -13,8 +13,11 @@ standard: tester.x tracker.x
 assess:   testerStudent.x trackerHybrid1.x trackerHybrid2.x trackerStudent.x testerCorrect.x trackerCorrect.x
 all:      standard assess
 
+//*************
+//to make tester program with given files
 tester.x: tester.o shapes.o vehicles.o
         $(CC) -otester.x tester.o shapes.o vehicles.o
+//*************
 
 tracker.x: tracker.o vehicles.o shapes.o
         $(CC) -otracker.x tracker.o vehicles.o shapes.o
